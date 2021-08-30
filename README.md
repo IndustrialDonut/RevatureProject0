@@ -1,2 +1,2 @@
 # RevatureProject0
-First project at Revature
+Project was late and incomplete. Testing was only written for a single class
